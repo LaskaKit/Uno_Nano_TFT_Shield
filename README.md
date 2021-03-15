@@ -1,0 +1,1 @@
+Univerzální shield pro Arduino UNO, nebo Arduino NANO sloužící pro pøipojení dotykového TFT displeje o velikosti 2.4" - 4.0".
