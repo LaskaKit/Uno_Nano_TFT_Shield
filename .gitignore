@@ -42,6 +42,7 @@
 *.suo
 *.user
 *.sln.docstates
+*.docx
 
 # Build results
 [Dd]ebug/
